@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello, World!");
 		System.out.println("new line.");
 		System.out.println("Another new line.");
+		System.out.println("Neue Zeile Stefan");
 
 	}
 
